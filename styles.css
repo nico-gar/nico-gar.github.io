@@ -67,9 +67,11 @@
   .container > div:nth-of-type(10) {
   grid-column: 1 / 5;
   }
+
     .container > div:nth-of-type(11) {
   grid-column: 1 / 3;
   }
+  
     .container > div:nth-of-type(12) {
   grid-column: 3 / 5;
   }
