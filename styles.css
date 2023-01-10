@@ -167,6 +167,11 @@ p {
 }
 
 .bg2 {
+  background: url('https://unsplash.com/photos/VBBGigIuaDY');
+  color: #333;
+}
+
+/* .bg2 {
     background: url('/Images/beach-img1.jpg');
     color: black;
- }
+ } */
