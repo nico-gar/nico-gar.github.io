@@ -137,7 +137,7 @@ body {
 }
 
 h2 {
-  font-size: 4em;
+  font-size: 3em;
   font-weight: 300;
   margin: 10px;
 }
@@ -167,11 +167,6 @@ p {
 }
 
 .bg2 {
-  background: url('https://unsplash.com/photos/VBBGigIuaDY');
-  color: #333;
-}
-
-/* .bg2 {
     background: url('/Images/beach-img1.jpg');
     color: black;
- } */
+ }
