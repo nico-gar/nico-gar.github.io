@@ -137,13 +137,13 @@ body {
 }
 
 h2 {
-  font-size: 3em;
-  font-weight: 300;
+  font-size: 4em;
+  /* font-weight: 300; */
   margin: 10px;
 }
 
 p {
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 .container > div {
