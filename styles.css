@@ -138,12 +138,12 @@ body {
 
 h2 {
   font-size: 4em;
-  /* font-weight: 300; */
+  font-weight: 300;
   margin: 10px;
 }
 
 p {
-  font-size: 1vw;
+  font-size: 4vw;
 }
 
 .container > div {
@@ -168,6 +168,5 @@ p {
 
 .bg2 {
     background: url('/Images/beach-img1.jpg');
-    color: #333;
     color: black;
  }
